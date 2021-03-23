@@ -16,19 +16,84 @@ body{
 
 }
 .container {
-    width: 960px;
+    width: auto;
     height: auto;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    align-self: center;
+    flex-wrap: wrap;    
 }
 
-.image{
+.item {
+    border: 2px solid black;
+    padding: 10px;
+    background: white;
+}
+
+.img1 {
+    width: 200px;
+    height: 200px;
+}
+
+.img2 {
+    width: 300px;
+    height: 170px;
+}
+
+.img3 {
     width: 300px;
     height: 200px;
-    margin: 5px;
-    flex-basis: 300px;
+}
 
+.img4 {
+    width: 200px;
+    height: 150px;
+}
+
+.img5 {
+    width: 350px;
+    height: 200px;
+}
+
+.img6 {
+    width: 250px;
+    height: 150px;
+}
+
+.img7 {
+    width: 170px;
+    height: 130px;
+}
+
+.img8 {
+    width: 340px;
+    height: 235px;
+}
+
+.img9 {
+    width: 280px;
+    height: 190px;
+}
+
+.img10 {
+    width: 390px;
+    height: 250px;
+}
+
+.img11 {
+    width: 150px;
+    height: 200px;
+}
+
+.img13 {
+    width: 200px;
+    height: 190px;
+}
+
+.img14 {
+    width: 245px;
+    height: 155px;
+}
+
+.img15 {
+    width: 270px;
+    height: 150px;
 }
